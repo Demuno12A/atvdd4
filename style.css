@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(255, 186, 244);
+    text-align: center;
+}
+ 
+h1{
+
+    color: rgb(255, 0, 0);
+    
+}
+
+h2,{
+    background-color:aliceblue;
+    
+}
+
+h3{
+    color: rgb(0, 0, 255); ;
+}
+
+body > div {
+    background-color:rgb(104, 158, 205);
+    border-radius: 150px;
+}
+
+.texto_cinza h2 {
+    color: rgb(215, 187, 242);
+
+}
